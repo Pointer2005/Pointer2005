@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=400&lines=Keyboard+%2B+Coffee+%3D+Magic&color=33FF33;FF33FF;33FFFF)](https://git.io/typing-svg)
 
 ```python
-class Specter:
+class Pointer:
     def __init__(self):
         self.skills = ["AI", "Agents", "Linux", "Open Source", "IoT"]
         self.motto = "Build. Break. Rebuild better."
