@@ -13,7 +13,8 @@
 - 🔭 Currently diving deep into **AI + IoT + Automation**  
 - 🎨 Believe in blending **logic with creativity** to craft meaningful projects  
 - 🎮 Fun fact:  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=400Ideas+%2B+Code+%3D+Reality;CTRL+Z+can't+fix+life+😂&color=33FF33;FF33FF;33FFFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=400&lines=Coffee+%2B+Code+%3D+Magic;Ideas+%2B+Code+%3D+Reality;CTRL+Z+can't+change+life&color=33FF33;FF33FF;33FFFF)](https://git.io/typing-svg)
+
 
 
 ```python
