@@ -7,11 +7,14 @@
 ---
 
 ## 👾 About Me
-- 🌱 Passionate about **AI, Open Source, and System Automation**  
-- 🐧 Exploring **Linux internals** and tinkering with hardware  
-- 💡 Love **solving real-world problems with code**  
+- 🚀 CS student exploring the intersection of **AI, Systems, and Open Source**  
+- 🧠 Obsessed with **building smart agents** that solve real problems  
+- 🐧 Always tweaking and breaking stuff on **Linux** (and fixing it back!)  
+- 🔭 Currently diving deep into **AI + IoT + Automation**  
+- 🎨 Believe in blending **logic with creativity** to craft meaningful projects  
 - 🎮 Fun fact:  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=400&lines=Keyboard+%2B+Coffee+%3D+Magic&color=33FF33;FF33FF;33FFFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=400&lines=Debugging+is+my+superpower;Ideas+%2B+Code+%3D+Reality;CTRL+Z+can't+fix+life+😂&color=33FF33;FF33FF;33FFFF)](https://git.io/typing-svg)
+
 
 ```python
 class Pointer:
